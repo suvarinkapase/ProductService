@@ -1,12 +1,11 @@
-package com.smj.product;
+package com.smj.pro;
 
-import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class ProductServiceApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 
